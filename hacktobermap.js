@@ -580,5 +580,11 @@ var hacktobermap = [
     location: "Las Vegas, NV",
     latitude: "36.169941",
     longitude: "-115.1398"
-  }
+  },
+  {
+    name: "Mo",
+    location: "Toronto, Ontario",
+    latitude: 43.6532,
+    longitude: 79.3832,
+  },
 ];
